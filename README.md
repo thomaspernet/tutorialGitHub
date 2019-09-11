@@ -75,7 +75,7 @@ git config --global user.email "hello.world@socgen.com"
 ```
 
 * Vous pouvez faire cette étape via GitHub Desktop
-Allez dans Preference et vérifiez que Git et GitHub soient bien identifiés
+* Allez dans Preference et vérifiez que Git et GitHub soient bien identifiés
 
 **GitHub**
 
