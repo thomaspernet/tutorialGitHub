@@ -32,7 +32,7 @@ Si vous n'avez pas Python sur votre machine, voici un document qui va vous perme
 3. Installation de GitHub Desktop
 
 ## 1. Installation de Git
-* Veuillez vous rendre sur ce lien  et installez git selon votre machine: Mac, Windows ou Linux
+* Veuillez vous rendre sur ce [lien]((https://git-scm.com/downloads) et installez git selon votre machine: Mac, Windows ou Linux
 * Pour tester si vous avez bien installé Git, veuillez ouvrir le terminal (Mac/Linux) ou la ligne de command (Powershell, Windows) et tapez:
 `git --help`
 
@@ -40,7 +40,7 @@ Si vous voyez quelque chose de la sorte, vous avez installé Git correctement:
 
 ![](https://drive.google.com/uc?export=view&id=1HwUlw3Ue5yNihIiD_ALJkGwI6a8kpBoL)
 
-Sinon, veuillez recommencer ou me contacter à t.pernetcoudrier@gmail.com
+Sinon, veuillez recommencer ou me contacter à [t.pernetcoudrier@gmail.com](t.pernetcoudrier@gmail.com)
 
 ## 2. Création Compte GitHub
 
@@ -61,7 +61,7 @@ Voila, bienvenue dans la communauté GitHub
 
 ## 3. Installation de GitHub Desktop
 
-GitHub desktop est une app créer par GitHub. Elle va vous permettre d'utiliser Git sans ligne de code! 
+GitHub desktop est une app conçue par GitHub. Elle va vous permettre d'utiliser Git sans ligne de code! 
 
 * Pour cela, rendez vous sur [Github DeskTop](https://desktop.github.com/) et installez Github
 * Ensuite, connectez votre compte GitHub avec GitHub desktop
