@@ -13,11 +13,11 @@ Pour utiliser GitHub, il faut au préalable réaliser quelques étapes. Dans cet
 Cette section est facultative
 
 Si vous n'avez pas d'éditeur de texte (markdown, programme), vous pouvez installer les programmes suivants:
-* Typora: https://www.typora.io/
+* [Typora](https://www.typora.io/)
   * Un éditeur Markdown pour créer des documents 
-* Sublime text: https://www.sublimetext.com/
+* [Sublime text](https://www.sublimetext.com/)
   * Un éditeur de code
-* Atom: https://atom.io/
+* [Atom](https://atom.io/)
   * Un éditeur de code
   * Installer le package hydrogen
     * Permet de lancer les codes Python directement dans l'éditeur de code (print, plot, etc)
@@ -44,7 +44,7 @@ Sinon, veuillez recommencer ou me contacter à t.pernetcoudrier@gmail.com
 
 ## 2. Création Compte GitHub
 
-Veuillez vous rendre à l'adresse suivante: https://github.com/ et remplir les trois champs suivants:
+Veuillez vous rendre à l'adresse suivante: [GitHub](https://github.com/) et remplir les trois champs suivants:
 * Username
 * Email
 * Password
@@ -63,7 +63,7 @@ Voila, bienvenue dans la communauté GitHub
 
 GitHub desktop est une app créer par GitHub. Elle va vous permettre d'utiliser Git sans ligne de code! 
 
-* Pour cela, rendez vous sur https://desktop.github.com/ et installer Github
+* Pour cela, rendez vous sur [Github DeskTop](https://desktop.github.com/) et installer Github
 * Ensuite, connecter votre compte GitHub avec GitHub desktop
 
 Pour faire en sorte que Git et GitHub communique sans heurt, il est préférable de faire la configuration suivante:
