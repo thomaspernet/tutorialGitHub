@@ -19,7 +19,7 @@ Si vous n'avez pas d'éditeur de texte (markdown, programme), vous pouvez instal
   * Un éditeur de code
 * [Atom](https://atom.io/)
   * Un éditeur de code
-  * Installer le package hydrogen
+  * Installer le package [hydrogen](https://atom.io/packages/hydrogen)
     * Permet de lancer les codes Python directement dans l'éditeur de code (print, plot, etc)
 
 Si vous n'avez pas Python d'installer sur votre machine, voici un document qui va vous permettre de l'installer facilement
