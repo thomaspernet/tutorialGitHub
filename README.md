@@ -23,7 +23,7 @@ Si vous n'avez pas d'éditeur de texte (markdown, programme), vous pouvez instal
     * Permet de lancer les codes Python directement dans l'éditeur de code (print, plot, etc)
 
 Si vous n'avez pas Python d'installer sur votre machine, voici un document qui va vous permettre de l'installer facilement
-* Copy of AI_book.pdf page 54-56
+[Copy of AI_book.pdf](https://drive.google.com/open?id=1xqc8K4lqVZkyh1V_6raCGGiNCMb4atlA) page 54-56
 
 ## Etapes a suivre:
 
