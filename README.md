@@ -4,7 +4,7 @@ Pour utiliser GitHub, il faut au préalable réaliser quelques étapes. Dans cet
 
 ## Programmes necéssaires
 
-* Git: https://git-scm.com/downloads
+* ![Git](https://git-scm.com/downloads)
 * GitHub Desktop: https://desktop.github.com/
 * Chrome ou Firefox: https://www.google.com/chrome/ ou https://www.mozilla.org/en-US/firefox/new/
 
