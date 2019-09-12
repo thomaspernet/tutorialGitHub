@@ -32,8 +32,8 @@ Si vous n'avez pas Python sur votre machine, voici un document qui va vous perme
 3. Installation de GitHub Desktop
 
 ## 1. Installation de Git
-* Veuillez vous rendre sur ce [lien]((https://git-scm.com/downloads) et installez git selon votre machine: Mac, Windows ou Linux
-* Pour tester si vous avez bien installé Git, veuillez ouvrir le terminal (Mac/Linux) ou la ligne de command (Powershell, Windows) et tapez:
+* Veuillez vous rendre sur ce [lien](https://git-scm.com/downloads) et installez git selon votre machine: Mac, Windows ou Linux
+* Pour tester si vous avez bien installé Git, veuillez ouvrir le terminal (Mac/Linux) ou la ligne de commande (Powershell, Windows) et tapez:
 `git --help`
 
 Si vous voyez quelque chose de la sorte, vous avez installé Git correctement:
