@@ -8,7 +8,7 @@ Pour utiliser GitHub, il faut au préalable réaliser quelques étapes. Dans cet
 * [GitHub Desktop](https://desktop.github.com/)
 * [Chrome](https://www.google.com/chrome/) ou [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-* Connection [SG](https://sgithub.fr.world.socgen/orgs/RISO-MOD-Retail-Analytics/) 
+* Connection [SG](https://sgithub.fr.world.socgen/orgs/RISQ-MOD-Retail-Analytics/) 
 
 ### Extra programmes (facultatifs)
 
