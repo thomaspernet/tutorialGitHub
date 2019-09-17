@@ -6,13 +6,19 @@
 
 ![](http://www.lalettrem.fr/sites/default/files/logo_societe-generale_4.png)
 
-[Introduction](#appendix)
+
 
 # Agenda
 
 * Definition VCS: Version Control System
 * Présentation Git & GitHub
 * Cas pratique
+
+# Table of Contents
+[1)](#Définition VSC: Version Control System)
+[2)](#Git & GitHub)
+[1)](#Cas pratique)
+[1)](#Appendix)
 
 # Définition VSC: Version Control System
 
