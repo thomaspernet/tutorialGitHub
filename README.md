@@ -464,6 +464,10 @@ Si vous vous rendez dans le site GitHub du répo, vous pouvez constater qu'il ne
 
 ![](https://drive.google.com/uc?export=view&id=1ZKSZAX_FyOY_kkPuRA2-j0uJ8mZpuDTr)
 
+## Data Survey
+
+![](https://drive.google.com/uc?export=view&id=1wXVhYIP34rS7pNN298JSjxzRGPkVgEJ2)
+
 # Appendix
 
 Voici l'équivalent du workflow avec la ligne de commande. A noter qu'il n'est pas possible de faire un `pull request` en ligne de commande. Cette feature est spécifique à GitHub.
