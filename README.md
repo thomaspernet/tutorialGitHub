@@ -15,10 +15,10 @@
 * Cas pratique
 
 # Table of Contents
-* [1)](#vcs)
-* [2)](#git)
-* [3)](#usecase)
-* [4)](#Appendix)
+* [1: VCS](#vcs)
+* [2: Git](#git)
+* [3: Usecase](#usecase)
+* [4: Appendix](#Appendix)
 
 # Définition VSC: Version Control System <a name="vcs"></a>
 
