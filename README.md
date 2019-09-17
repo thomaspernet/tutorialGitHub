@@ -161,7 +161,7 @@ Le projet est maintenant synchronisé en local et en remote. Nous pouvons regard
 Le fichier `README` permet de décrire le project. C'est le premier élément visible lorsque qu'une personne se rend sur l'URL. Plus le README est détaillé, plus il est facile d'intégrer de nouvelle personne au projet. 
 
 Comme nous n'avons pas utilisé les lignes de commande pour créer un premier `push` , nous devons le faire manuellement. Pour cela, nous allons créer un ficher text et changer l'extension en `.md`. Le fichier va donc être nommé `README.md`
-* Ouvrez votre Text Editor favorie. Pour ma part, j'utilise Typora
+* Ouvrez votre Text Editor favorie. Pour ma part, j'utilise [Typora](https://www.typora.io/)
 * Copier/coller le texte suivant 
 
 ```markdown
