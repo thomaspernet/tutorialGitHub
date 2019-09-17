@@ -17,8 +17,8 @@
 # Table of Contents
 * [1)](#Définition VSC: Version Control System)
 * [2)](#Git & GitHub)
-* [1)](#Cas pratique)
-* [1)](#Appendix)
+* [3)](#Cas pratique)
+* [4)](#Appendix)
 
 # Définition VSC: Version Control System
 
