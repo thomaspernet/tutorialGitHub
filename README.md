@@ -58,7 +58,7 @@ git commit -m 'initial project version'
 
 # Qu'est ce que GitHub?
 
-* [GitHub]([https://github.com](https://github.com/)) est une plateforme hôte pour le VCS. Il permet à tous les team members de travailler ensemble sur n'importe quel projet, à partir de n'importe quelle machine.
+* [GitHub][https://github.com](https://github.com/) est une plateforme hôte pour le VCS. Il permet à tous les team members de travailler ensemble sur n'importe quel projet, à partir de n'importe quelle machine.
 * GitHub permet regrouper et coordonner les différents `git` enregistrés localement
 * GitHub permet aussi de faire abstraction de l'ensemble des lignes de commande git. Grâce à [GitHub](GitHub.com) et [GitHub Desktop](https://desktop.github.com/), l'utilisateur peut utiliser l'ensemble du Workflow git sans problème et sans une seule ligne de code. 
   
@@ -89,7 +89,7 @@ Si une personne de l'équipe a un problème avec son disque dur, cela n'affecter
 
 ## Step 2: Créer un Repository
 
-* Rendez vous sur https://github.com/ et cliquez sur `New`
+* Rendez vous sur [https://github.com/] et cliquez sur `New`
 
   
 
