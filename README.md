@@ -15,12 +15,12 @@
 * Cas pratique
 
 # Table of Contents
-* [1)](#Définition VSC: Version Control System)
-* [2)](#Git & GitHub)
-* [3)](#Cas pratique)
+* [1)](#vcs)
+* [2)](#git)
+* [3)](#usecase)
 * [4)](#Appendix)
 
-# Définition VSC: Version Control System
+# Définition VSC: Version Control System <a name="vcs"></a>
 
 * Un **Version Control System**, or **VCS**, permet de tracker l'historique des changements effectués par une ou plusieurs personne(s) affectées à un projet. 
 * Le développeur peut, via un VCS, connaitre:
@@ -34,7 +34,7 @@
 
 
 
-# Git & GitHub
+# Git & GitHub <a name="git"></a>
 
 Il existe plusieurs VCS, mais [Git](https://guides.github.com/introduction/git-handbook/) est à la fois  le plus abouti et le plus utilisés par la communauté de développeurs
 
@@ -75,7 +75,7 @@ git commit -m 'initial project version'
 
 
 
-# Cas pratique
+# Cas pratique <a name="usecase"></a>
 
 Dans le cas suivant, on fait l'hypothèse que nous allons commencer un nouveau projet. Plus précisément, aucun document ou ficher ne se trouve localement et le repository dans GitHub n'existe pas encore.
 
