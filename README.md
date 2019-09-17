@@ -6,6 +6,8 @@
 
 ![](http://www.lalettrem.fr/sites/default/files/logo_societe-generale_4.png)
 
+[Introduction](#appendix)
+
 # Agenda
 
 * Definition VCS: Version Control System
