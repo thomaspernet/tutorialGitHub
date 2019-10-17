@@ -4,7 +4,6 @@
 
   ## Objectif de la présentation: Présenter Git & GitHub via un cas pratique
 
-![](http://www.lalettrem.fr/sites/default/files/logo_societe-generale_4.png)
 
 Link to see the presentation: [GitHub Viewer](https://htmlpreview.github.io/?https://github.com/thomaspernet/tutorialGitHub/blob/master/GitHub_Tutorial.html)
 
